@@ -1,4 +1,4 @@
-# Use Autofac Demo
+# ASP.NET with Autofac Demo
 
 This tutorial shows how to configure ASP.NET Web API to use Autofac container instead of the default one.
 
