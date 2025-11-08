@@ -1,6 +1,6 @@
 using System;
 
-namespace UseAutofac.Areas.HelpPage
+namespace DustInTheWind.AspNetWithAutofacDemo.Areas.HelpPage
 {
     /// <summary>
     /// This represents an image sample on the help page. There's a display template named ImageSample associated with this class.

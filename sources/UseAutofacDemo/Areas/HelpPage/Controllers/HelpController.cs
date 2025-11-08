@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using UseAutofac.Areas.HelpPage.ModelDescriptions;
-using UseAutofac.Areas.HelpPage.Models;
+using DustInTheWind.AspNetWithAutofacDemo.Areas.HelpPage.ModelDescriptions;
+using DustInTheWind.AspNetWithAutofacDemo.Areas.HelpPage.Models;
 
-namespace UseAutofac.Areas.HelpPage.Controllers
+namespace DustInTheWind.AspNetWithAutofacDemo.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

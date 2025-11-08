@@ -1,4 +1,4 @@
-﻿namespace UseAutofac.Services
+﻿namespace DustInTheWind.AspNetWithAutofacDemo.Services
 {
     public interface IMyService
     {

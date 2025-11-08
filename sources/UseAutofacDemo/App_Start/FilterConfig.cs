@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace UseAutofac
+namespace DustInTheWind.AspNetWithAutofacDemo
 {
     public class FilterConfig
     {

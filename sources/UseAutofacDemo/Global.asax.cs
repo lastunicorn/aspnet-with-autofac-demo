@@ -2,9 +2,9 @@
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
-using UseAutofac.App_Start;
+using DustInTheWind.AspNetWithAutofacDemo.App_Start;
 
-namespace UseAutofac
+namespace DustInTheWind.AspNetWithAutofacDemo
 {
     public class WebApiApplication : System.Web.HttpApplication
     {

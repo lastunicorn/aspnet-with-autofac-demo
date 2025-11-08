@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace UseAutofac.Areas.HelpPage.ModelDescriptions
+namespace DustInTheWind.AspNetWithAutofacDemo.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

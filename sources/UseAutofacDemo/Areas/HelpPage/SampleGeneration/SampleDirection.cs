@@ -1,4 +1,4 @@
-namespace UseAutofac.Areas.HelpPage
+namespace DustInTheWind.AspNetWithAutofacDemo.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

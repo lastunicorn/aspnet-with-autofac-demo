@@ -11,7 +11,7 @@ using System.Web.Http.Description;
 using System.Xml.Serialization;
 using Newtonsoft.Json;
 
-namespace UseAutofac.Areas.HelpPage.ModelDescriptions
+namespace DustInTheWind.AspNetWithAutofacDemo.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Generates model descriptions for given types.

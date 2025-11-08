@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Web.Http;
 
-namespace UseAutofac.Controllers
+namespace DustInTheWind.AspNetWithAutofacDemo.Controllers
 {
     public class ValuesController : ApiController
     {

@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="UseAutofac.WebApiApplication" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="DustInTheWind.AspNetWithAutofacDemo.WebApiApplication" Language="C#" %>

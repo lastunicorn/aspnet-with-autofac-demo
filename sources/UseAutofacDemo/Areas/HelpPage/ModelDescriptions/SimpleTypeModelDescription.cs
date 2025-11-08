@@ -1,4 +1,4 @@
-namespace UseAutofac.Areas.HelpPage.ModelDescriptions
+namespace DustInTheWind.AspNetWithAutofacDemo.Areas.HelpPage.ModelDescriptions
 {
     public class SimpleTypeModelDescription : ModelDescription
     {

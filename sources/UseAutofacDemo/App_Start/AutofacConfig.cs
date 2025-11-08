@@ -2,9 +2,9 @@
 using Autofac.Integration.WebApi;
 using System.Reflection;
 using System.Web.Http;
-using UseAutofac.Services;
+using DustInTheWind.AspNetWithAutofacDemo.Services;
 
-namespace UseAutofac.App_Start
+namespace DustInTheWind.AspNetWithAutofacDemo.App_Start
 {
     public class AutofacConfig
     {

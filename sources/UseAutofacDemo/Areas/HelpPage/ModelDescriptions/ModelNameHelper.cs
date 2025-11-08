@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace UseAutofac.Areas.HelpPage.ModelDescriptions
+namespace DustInTheWind.AspNetWithAutofacDemo.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

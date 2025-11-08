@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace UseAutofac
+namespace DustInTheWind.AspNetWithAutofacDemo
 {
     public class BundleConfig
     {

@@ -1,7 +1,7 @@
 ﻿using System.Web.Http;
-using UseAutofac.Services;
+using DustInTheWind.AspNetWithAutofacDemo.Services;
 
-namespace UseAutofac.Controllers
+namespace DustInTheWind.AspNetWithAutofacDemo.Controllers
 {
     public class DummyController : ApiController
     {

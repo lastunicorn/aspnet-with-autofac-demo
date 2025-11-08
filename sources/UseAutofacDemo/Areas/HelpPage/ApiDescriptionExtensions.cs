@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace UseAutofac.Areas.HelpPage
+namespace DustInTheWind.AspNetWithAutofacDemo.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {
