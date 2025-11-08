@@ -3,11 +3,11 @@ using DustInTheWind.AspNetWithAutofacDemo.Services;
 
 namespace DustInTheWind.AspNetWithAutofacDemo.Controllers
 {
-    public class DummyController : ApiController
+    public class DemoController : ApiController
     {
         private readonly IMyService myService;
 
-        public DummyController(IMyService myService)
+        public DemoController(IMyService myService)
         {
             this.myService = myService ?? throw new System.ArgumentNullException(nameof(myService));
         }
